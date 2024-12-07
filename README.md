@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3178C6&width=435&lines=Hi+there!+I'm+Maryam+%F0%9F%91%8B;Software+Engineer;Platform+Engineer;Data+Developer)](https://git.io/typing-svg)
 
-## About Me 👩‍💻
+## About Me 👩🏻‍💻🧕
 
 I'm a Software Engineer specializing in data platforms and full-stack development. Currently working on healthcare data systems and exploring modern web technologies.
 
