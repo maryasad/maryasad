@@ -1,6 +1,6 @@
 ## About Me 👩🏻‍💻
 
-Software Engineer with expertise in data platforms and full-stack development. Skilled in analyzing and establishing healthcare data warehouses, designing efficient ETL pipelines, and delivering impactful analytics solutions. Possess a strong research background and in-depth knowledge of blockchain technology, including advanced smart contract development. Passionate about bridging traditional enterprise systems with innovative technologies like blockchain and Web3.
+Full-stack developer with a passion for blockchain technology and data engineering. I specialize in building scalable data platforms and smart contract solutions. Currently focused on healthcare data systems while exploring Web3 development and DApp architectures. Always excited to bridge the gap between traditional systems and emerging technologies.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maryam-asadi-92b49350/">
@@ -13,52 +13,6 @@ Software Engineer with expertise in data platforms and full-stack development. S
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
-## 💼 Professional Experience
-
-```typescript
-interface Experience {
-  role: string;
-  company: string;
-  location: string;
-  duration: string;
-  highlights: string[];
-}
-
-const experiences: Experience[] = [
-  {
-    role: "Software Engineer",
-    company: "CHIP Centre of Excellence",
-    location: "Copenhagen",
-    duration: "2019 - Present",
-    highlights: [
-      "Developed and maintained scalable data processing solutions for healthcare data using Python and cloud services",
-      "Implemented automated testing frameworks and CI/CD pipelines",
-      "Designed and optimized database queries and stored procedures using T-SQL",
-      "Created efficient data models and ETL processes for research data",
-      "Led development workflow improvements using Azure DevOps"
-    ]
-  },
-  {
-    role: "Software Developer",
-    company: "Private Healthcare Organization",
-    location: "Iran",
-    duration: "2012 - 2017",
-    highlights: [
-      "Developed distributed processing systems for medical imaging data",
-      "Implemented automated deployment pipelines",
-      "Led system modernization initiatives and infrastructure improvements"
-    ]
-  }
-];
-```
-
-## 📚 Education
-
-- **Master's in Artificial Intelligence**
-  - AmirKabir University of Technology
-- **Bachelor's in Software Engineering**
-  - Science & Technology University
 
 ## 🔧 Technologies & Tools
 
