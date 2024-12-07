@@ -52,13 +52,6 @@ Software Engineer with expertise in data platforms and full-stack development. S
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryasad&theme=transparent" />
 </div>
 
-## 📚 Education
-
-- **Master's in Artificial Intelligence**
-  - AmirKabir University of Technology
-- **Bachelor's in Software Engineering**
-  - Science & Technology University
-
 ---
 
 <div align="center">
