@@ -52,45 +52,6 @@ Software Engineer with expertise in data platforms and full-stack development. S
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryasad&theme=transparent" />
 </div>
 
-## 💼 Professional Experience
-
-```typescript
-interface Experience {
-  role: string;
-  company: string;
-  location: string;
-  duration: string;
-  highlights: string[];
-}
-
-const experiences: Experience[] = [
-  {
-    role: "Software Engineer",
-    company: "CHIP Centre of Excellence",
-    location: "Copenhagen",
-    duration: "2019 - Present",
-    highlights: [
-      "Developed and maintained scalable data processing solutions for healthcare data using Python and cloud services",
-      "Implemented automated testing frameworks and CI/CD pipelines",
-      "Designed and optimized database queries and stored procedures using T-SQL",
-      "Created efficient data models and ETL processes for research data",
-      "Led development workflow improvements using Azure DevOps"
-    ]
-  },
-  {
-    role: "Software Developer",
-    company: "Private Healthcare Organization",
-    location: "Iran",
-    duration: "2012 - 2017",
-    highlights: [
-      "Developed distributed processing systems for medical imaging data",
-      "Implemented automated deployment pipelines",
-      "Led system modernization initiatives and infrastructure improvements"
-    ]
-  }
-];
-```
-
 ## 📚 Education
 
 - **Master's in Artificial Intelligence**
