@@ -45,18 +45,6 @@ Software Engineer with expertise in data platforms and full-stack development. S
 
 </div>
 
-## 🚀 Current Projects
-
-### Healthcare Data Platform
-- Building automated data pipelines for healthcare research using Python and SQL
-- Implementing ETL processes and data quality frameworks
-- Managing cloud infrastructure with Azure DevOps
-
-### Portfolio Website (In Progress)
-- Developing with Next.js and TypeScript
-- Implementing modern UI with Tailwind CSS
-- Focus on responsive design and performance
-
 ## 📈 GitHub Stats
 
 <div align="center">
