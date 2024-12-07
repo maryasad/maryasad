@@ -1,3 +1,4 @@
+
 ## About Me 👩🏻‍💻🧕
 
 Software Engineer with expertise in data platforms and full-stack development. Skilled in analyzing and establishing healthcare data warehouses, designing efficient ETL pipelines, and delivering impactful analytics solutions. Possess a strong research background and in-depth knowledge of blockchain technology, including advanced smart contract development. Passionate about bridging traditional enterprise systems with innovative technologies like blockchain and Web3.
@@ -23,6 +24,7 @@ Software Engineer with expertise in data platforms and full-stack development. S
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,6 +41,8 @@ Software Engineer with expertise in data platforms and full-stack development. S
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
