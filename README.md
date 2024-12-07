@@ -1,4 +1,4 @@
-## About Me 👩🏻‍💻🧕
+## About Me 👩🏻‍💻
 
 Software Engineer with expertise in data platforms and full-stack development. Skilled in analyzing and establishing healthcare data warehouses, designing efficient ETL pipelines, and delivering impactful analytics solutions. Possess a strong research background and in-depth knowledge of blockchain technology, including advanced smart contract development. Passionate about bridging traditional enterprise systems with innovative technologies like blockchain and Web3.
 
