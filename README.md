@@ -1,5 +1,3 @@
-
-
 ## About Me 👩🏻‍💻🧕
 
 Software Engineer with expertise in data platforms and full-stack development. Skilled in analyzing and establishing healthcare data warehouses, designing efficient ETL pipelines, and delivering impactful analytics solutions. Possess a strong research background and in-depth knowledge of blockchain technology, including advanced smart contract development. Passionate about bridging traditional enterprise systems with innovative technologies like blockchain and Web3.
@@ -72,23 +70,37 @@ Software Engineer with expertise in data platforms and full-stack development. S
 interface Experience {
   role: string;
   company: string;
+  location: string;
   duration: string;
-  technologies: string[];
+  highlights: string[];
 }
 
-const currentRole: Experience = {
-  role: "Data Platform Engineer",
-  company: "CHIP (Centre of Excellence for Health)",
-  duration: "2019 - Present",
-  technologies: [
-    "Python",
-    "SQL",
-    "Azure",
-    "ETL",
-    "Data Modeling",
-    "DevOps"
-  ]
-};
+const experiences: Experience[] = [
+  {
+    role: "Software Engineer",
+    company: "CHIP Centre of Excellence",
+    location: "Copenhagen",
+    duration: "2019 - Present",
+    highlights: [
+      "Developed and maintained scalable data processing solutions for healthcare data using Python and cloud services",
+      "Implemented automated testing frameworks and CI/CD pipelines",
+      "Designed and optimized database queries and stored procedures using T-SQL",
+      "Created efficient data models and ETL processes for research data",
+      "Led development workflow improvements using Azure DevOps"
+    ]
+  },
+  {
+    role: "Software Developer",
+    company: "Private Healthcare Organization",
+    location: "Iran",
+    duration: "2012 - 2017",
+    highlights: [
+      "Developed distributed processing systems for medical imaging data",
+      "Implemented automated deployment pipelines",
+      "Led system modernization initiatives and infrastructure improvements"
+    ]
+  }
+];
 ```
 
 ## 📚 Education
