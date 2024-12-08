@@ -16,6 +16,8 @@ I'm Maryam, a Software Developer and Database Analyst with a passion for blockch
 
 ## 🔧 Technologies & Tools
 
+<div align="center">
+  
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -45,7 +47,7 @@ I'm Maryam, a Software Developer and Database Analyst with a passion for blockch
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+</div>
 
 ## 📈 GitHub Stats
 
