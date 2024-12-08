@@ -1,5 +1,8 @@
 # Hi! I'm Maryam, and I'm glad you're here! 👋  
-I'm a Software Developer and Database Analyst with a passion for blockchain and data engineering. I focus on building scalable data platforms and smart contract solutions. Right now, I’m working on healthcare data systems and exploring Web3 and DApp development."
+
+I'm a Software Developer and Database Analyst with a passion for blockchain and data engineering. I focus on building scalable data platforms and smart contract solutions. Right now, I’m working on healthcare data systems and exploring Web3 and DApp development.
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/maryam-asadi-92b49350/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
