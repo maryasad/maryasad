@@ -1,4 +1,4 @@
-# Hi there! I'm glad you're here! 👋
+# Hi there! 👋
 
 I'm Maryam, a Software Developer and Database Analyst with a passion for blockchain and data engineering. I focus on building scalable data platforms and smart contract solutions. Right now, I’m working on healthcare data systems and exploring Web3 and DApp development.
 
