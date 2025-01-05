@@ -16,6 +16,7 @@ I’m Maryam, a data engineer, software developer, and database specialist with 
 
 ## 🔧 Technologies & Tools
 
+<div align="center">
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -49,7 +50,7 @@ I’m Maryam, a data engineer, software developer, and database specialist with 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=redis&logoColor=white)
-
+</div>
 ## 📈 GitHub Stats
 
 <div align="center">
