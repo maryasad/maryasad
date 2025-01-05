@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m Maryam, a data engineer, software developer, and database specialist with a passion for AI and blockchain technology. I work on designing scalable data platforms and creating efficient solutions. Currently, I’m working on a healthcare data warehouse, primarily using SQL and Python to streamline import and export tasks, enhance database performance, and explore AI technologies to advance app development and expand my full-stack expertise.
+I’m Maryam, a data engineering, Software Developer and database Specialist with a passion for AI and blockchain technology . I work on designing scalable data platforms and creating efficient solutions. Currently, I’m working on a healthcare data warehouse, primarily using SQL and Python to streamline import and export tasks, enhance database performance, and explore AI technologies to advance app development and expand my full-stack expertise.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maryam-asadi-92b49350/">
@@ -15,6 +15,9 @@ I’m Maryam, a data engineer, software developer, and database specialist with 
 </div>
 
 ## 🔧 Technologies & Tools
+
+<div align="center">
+
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -44,6 +47,7 @@ I’m Maryam, a data engineer, software developer, and database specialist with 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+  
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -51,6 +55,7 @@ I’m Maryam, a data engineer, software developer, and database specialist with 
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Remix IDE](https://img.shields.io/badge/Remix_IDE-20232A?style=for-the-badge&logo=remix&logoColor=white)
 
+</div>
 
 ## 📈 GitHub Stats
 
