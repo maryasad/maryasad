@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m Maryam, a data engineering, Software Developer and database Specialist with a passion for AI and blockchain technology . I work on designing scalable data platforms and creating efficient solutions. Currently, I’m working on a healthcare data warehouse, primarily using SQL and Python to streamline import and export tasks, enhance database performance, and explore AI technologies to advance app development and expand my full-stack expertise.
+I’m Maryam, a data engineer, software developer, and database specialist with a passion for AI and blockchain technology. I work on designing scalable data platforms and creating efficient solutions. Currently, I’m working on a healthcare data warehouse, primarily using SQL and Python to streamline import and export tasks, enhance database performance, and explore AI technologies to advance app development and expand my full-stack expertise.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maryam-asadi-92b49350/">
@@ -16,8 +16,12 @@ I’m Maryam, a data engineering, Software Developer and database Specialist wit
 
 ## 🔧 Technologies & Tools
 
-<div align="center">
-  
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -45,8 +49,6 @@ I’m Maryam, a data engineering, Software Developer and database Specialist wit
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
 
 ## 📈 GitHub Stats
 
