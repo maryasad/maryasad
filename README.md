@@ -5,7 +5,7 @@ I’m a data engineer, software developer, and database specialist with a passio
   <a href="https://www.linkedin.com/in/maryam-asadi-92b49350/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:asady.maryam@yahoo.com">
+  <a href="mailto:asady.ma@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/maryasad">
