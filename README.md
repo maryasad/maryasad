@@ -1,6 +1,5 @@
 # Hi there! 👋
-
-I’m Maryam, a data engineering, Software Developer and database Specialist with a passion for AI. I work on designing scalable data platforms and creating efficient solutions. Currently, I’m working on a healthcare data warehouse, primarily using SQL and Python to streamline import and export tasks, enhance database performance, and explore AI technologies to advance app development and expand my full-stack expertise.
+I’m a data engineer, software developer, and database specialist with a passion for AI. I focus on building scalable data platforms and creating efficient, innovative solutions. Right now, I’m working on a healthcare data warehouse, using SQL and Python to streamline data processes, optimize database performance, and improve import/export workflows. I’m also deeply interested in exploring AI technologies to push the boundaries of app development and grow my skill set.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maryam-asadi-92b49350/">
